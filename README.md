@@ -2,11 +2,11 @@
 
 Who I am: I'm Luke. 
 
-What I'm doing: I'm currently working as a Mathematician for a gaming company who makes slot-machines. 
+Where I work: I'm currently working as a Mathematician for a gaming company who makes slot-machines. 
 
 What I studied: I studied Mathematics in undergrad and am finishing my masters degree in Materials Science & Engineering. 
 
-What I am: My interests are interdisciplinary in nature: I do not consider myself exclusively a Mathematician, Scientist, nor Engineer -- but rather all three. 
+What I do: My interests are interdisciplinary in nature: I do not consider myself exclusively a Mathematician, Scientist, nor Engineer -- but rather all three. 
 
 Why I'm here: I love using computation to solve real life problems, at work and in everyday life!
 
